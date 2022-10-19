@@ -1,1 +1,1 @@
-Repository for strapi_groc project
+Repository for drupal_groc project
